@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/antlr-2.7.6rc1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/asm-attrs.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/asm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/aspectjrt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/aspectjweaver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/cglib-2.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-attributes-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-attributes-compiler.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-beanutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-collections-3.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-dbcp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-io-1.3.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-lang.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-pool-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/commons-validator.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/connector.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/cos.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/displaytag-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/dwr.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/ehcache-1.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/ejb3-persistence.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/eWebEditor.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/FCKeditor-2.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/fckeditor-java-core-2.4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/freemarker-2.3.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/freemarker.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/hibernate-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/hibernate-commons-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/hibernate3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jakarta-oro-2.0.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/java-core-2.4.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/javaee.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jcommon-1.0.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jdbc2_0-stdext.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jdo2-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jotm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jsmartcom_zh_CN.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jspsmartupload.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jta.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/jtds-1.2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/liuliu.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/log4j-1.2.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/msbase.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/mssqlserver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/msutil.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.0.4-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/mysql-connector.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/ognl-2.6.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/oro-2.0.8.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/oscache-2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/persistence.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/proxool-0.8.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.5.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/slf4j-simple-1.5.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-mock.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-webmvc-struts.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-webmvc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/struts2-core-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/struts2-spring-plugin-2.0.9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/xapool.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/xml-apis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/xwork-2.0.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-aop-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-context-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-expression-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-jdbc-4.3.9.RELEASE.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/spring-tx-4.3.9.RELEASE.jar!/" />
+    <conelement value="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5" />
+    <conelement value="org.eclipse.jst.j2ee.internal.web.container" />
+    <conelement value="org.eclipse.jst.j2ee.internal.module.container" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/WebContent/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/WebContent" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+      <facet type="Struts2" name="Struts 2">
+        <configuration>
+          <fileset id="s2fileset" name="My Fileset" removed="false">
+            <file>file://$MODULE_DIR$/src/struts.xml</file>
+          </fileset>
+          <fileset id="s2fileset2" name="My Fileset 2" removed="false">
+            <file>jar://$MODULE_DIR$/WebContent/WEB-INF/lib/struts2-core-2.0.9.jar!/struts-default.xml</file>
+            <file>jar://$MODULE_DIR$/WebContent/WEB-INF/lib/struts2-core-2.0.9.jar!/struts-portlet-default.xml</file>
+            <file>jar://$MODULE_DIR$/WebContent/WEB-INF/lib/struts2-spring-plugin-2.0.9.jar!/struts-plugin.xml</file>
+          </fileset>
+          <propertiesKeys disabled="false" />
+        </configuration>
+      </facet>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/conf/spring/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/conf/spring/applicationContext-service.xml</file>
+          <file>file://$MODULE_DIR$/src/conf/spring/applicationContext-action.xml</file>
+          <file>file://$MODULE_DIR$/src/conf/spring/applicationContext-dao.xml</file>
+          <file>file://$MODULE_DIR$/src/conf/spring/applicationContext-dataSource.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/build/classes" />
+    <output-test url="file://$MODULE_DIR$/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/WebContent/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/WebContent/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="spring-webmvc-4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="spring-web-4.3.9.RELEASE" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.6-bin" level="project" />
+    <orderEntry type="library" name="jsp-api" level="project" />
+  </component>
+</module>
